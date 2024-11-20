@@ -10,7 +10,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Email credentials and settings
+# Email credentials and settings(use your own)
 EMAIL_USER = 'your-email@mail.ru'
 EMAIL_PASS = 'your-email-password'
 IMAP_SERVER = 'imap.mail.ru'
